@@ -1,1 +1,1 @@
-# Hello-World - Testing integatin with Slack
+# Hello-World - Testing integration with Slack in unauth mode
